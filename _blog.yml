@@ -5773,3 +5773,14 @@
     - llm
     - inference
     - partnerships
+
+- local: introduction-to-ggml
+  title: "Introduction to GGML"
+  author: prithvi-r
+  thumbnail: /blog/assets/introduction-to-ggml/node-access.png
+  date: March 31, 2025 
+  tags:
+    - ggml
+    - open-source
+    - backend
+    - tutorial
